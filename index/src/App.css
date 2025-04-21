@@ -4,7 +4,7 @@
   font-family: 'Times New Roman', Times, serif;
   text-align: center;
   height: 50px;
-  width: 500%;
+  width: 100vw;
   display: flex;               
   justify-content: center;     
   align-items: center;  
@@ -14,7 +14,7 @@
   font-size: larger;
   font-family: 'Times New Roman', Times, serif;
   height: 110px;
-  width: 500%;
+  width: 100vw;
   display: flex;               
   justify-content: center;     
   align-items: center;       
@@ -26,7 +26,7 @@
   font-family: 'Times New Roman', Times, serif;
   text-align: center;
   height: 160px;
-  width: 500%;
+  width: 100vw;
   display: flex;               
   justify-content: center;     
   align-items: center;  
@@ -39,7 +39,7 @@
   font-family: 'Times New Roman', Times, serif;
   text-align: center;
   height: 110px;
-  width: 500%;
+  width: 100vw;
   display: flex;               
   justify-content: center;     
   align-items: center;  
@@ -50,7 +50,7 @@
   font-family: 'Times New Roman', Times, serif;
   text-align: center;
   height: 130px;
-  width: 500%;
+  width: 100vw;
   display: flex;               
   justify-content: center;     
   align-items: center;  
@@ -61,7 +61,7 @@
   font-family: 'Times New Roman', Times, serif;
   text-align: center;
   height: 80px;
-  width: 500%;
+  width: 100vw;
   display: flex;               
   justify-content: center;     
   align-items: center;  
